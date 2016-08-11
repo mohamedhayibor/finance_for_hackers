@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <br>
-    <img width="400" src="https://cdn.rawgit.com/mohamedhayibor/finance_for_hackers/master/media/logo.jpeg" alt="finance for hackers">
+    <img width="600" height="400" src="https://cdn.rawgit.com/mohamedhayibor/finance_for_hackers/master/media/logo.jpeg" alt="finance for hackers">
     <br>
     <br>
 </h1>
