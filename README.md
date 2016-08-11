@@ -10,7 +10,7 @@ It exposes the 10 useful formulas and concepts in finance that you need in your 
 
 > The value of an asset at a specific point in time in the future that is equivalent in value to a specific amount today. 
 
-Lets say you have a $1000.00 at the bank earning you 1% every year. Well turns out that it will be worth $1030.30 in 3 years. These two amonts are equivalent to each other. The difference is the reward for waiting.
+Lets say you have a $1000.00 at the bank earning you 1% every year. Well turns out that it will be worth $1030.30 in 3 years. These two amounts are equivalent to each other. The difference is the reward for waiting.
 
 If you do this type of exercise over longer compounding periods, you will notice that future values grow faster and faster, that's because of the compounding of interest (the most powerful force in the world).
 
@@ -34,11 +34,11 @@ As the concept is pretty close to PV, NPV determines how much your individual pr
 
 > a type of annuity (series of equal cash payments at regular intervals).
 
-If you taking any types of loans (car, home, laptop), this is the amount you owe to the end of each period. (usually monthly)
+If you taking any types of loans (car, home, laptop), this is the amount you owe at the end of each period. (usually monthly)
 
 ### Return On Investment [ROI]
 
-No matter your background you have to understand this concept. It applies to almost anything you do in life. It is the mostly used metric to determine how an investement or venture is.
+No matter your background you have to understand this concept. It applies to almost anything you do in life. It is the mostly used metric to determine how profitable an investement or venture is.
 
 > As the name implies it is the percentage change of gain or loss compared with your original investment.
 
@@ -46,16 +46,13 @@ No matter your background you have to understand this concept. It applies to alm
 
 > The discount rate that produces a zero net present value for a given set of cash flows.
 
-
-
 ### PayBack Period [PP]
 
-> The amount of time needed to recover the initial investment.
+> The amount of time needed to recover from an initial investment.
 
 ### Profitability ratios
 
 > The ratio of the present value of a project's positive cash flows to the present value of its negative cash flows.
-
 
 ### Leverate ratio [LR]
 
@@ -81,7 +78,7 @@ When you reading something from your bank, they are most likely giving you the a
 * Burn Rate (Bleed rate): the rate at which your idea (startup) will burn up funds provided by angels or venture capitalists.
 * Perpetuity: Infinite series of regular and equal payments.
 
-> Also when you hear the term risk in a finance , they are talking about the standard deviation (square root of the variance of the distribution of actual returns of actual returns from their mean.
+> Also when you hear the term risk in a finance, they are talking about the standard deviation (square root of the variance of the distribution of actual returns of actual returns from their mean).
 
 ## Libraries
 
