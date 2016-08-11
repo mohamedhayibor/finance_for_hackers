@@ -1,4 +1,4 @@
-# Developers Guide to Finance
+# Finance for Hackers :moneybag: :moneybag:
 
 This won't get you a Finance receipt (bachelors), but it will be very close.
 
@@ -10,7 +10,7 @@ It exposes the 10 useful formulas and concepts in finance that you need in your 
 
 > The value of an asset at a specific point in time in the future that is equivalent in value to a specific amount today. 
 
-Lets say you have a $1000.00 at the bank earning you 1% every year. Well turns out that it will be worth $1030.30 in 3 years. These two amounts are equivalent to each other. The difference is the reward for waiting.
+Lets say you have a $1,000.00 at the bank earning you 1% every year. Well turns out that it will be worth $1,030.30 in 3 years. These two amounts are equivalent to each other. The difference is the reward for waiting.
 
 If you do this type of exercise over longer compounding periods, you will notice that future values grow faster and faster, that's because of the compounding of interest (the most powerful force in the world).
 
