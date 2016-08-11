@@ -20,13 +20,13 @@ The compounding effect is not only for monetary worth of an asset in the future 
 
 > today's value of tomorrow's cash flow. (inverse of FV)
 
-If you are selling anything today (laptop, business...) you would want to calculate the present value and ideally sell it at a price higher than that amount.
+If you are selling anything today (laptop, business...), you would want to calculate the present value and ideally sell it at a price higher than that amount.
 
 The inverse relationship between (future value or payment and interest rate) is the reason why "when rates go up, prices go down and vice versa). By the way, feel pround, some finance graduates can't explain this concept.
 
 ### Net Present Value [NPV]
 
-> This discounts all future cash flows to the present and then determines if the present value of the inflows is greater or less than your initial investment. Tip: When choosing from a bunch of project, pick the one with the highest NPV.
+> This discounts all future cash flows to the present and then determines if the present value of the inflows is greater or less than your initial investment. Tip: When choosing from a bunch of projects, pick the one with the highest NPV.
 
 As the concept is pretty close to PV, NPV determines how much your individual projects are worth today.
 
@@ -40,7 +40,7 @@ If you taking any types of loans (car, home, laptop), this is the amount you owe
 
 No matter your background you have to understand this concept. It applies to almost anything you do in life. It is the mostly used metric to determine how profitable an investement or venture is.
 
-> As the name implies it is the percentage change of gain or loss compared with your original investment.
+> As the name implies, it is the percentage change of gain or loss compared with your original investment.
 
 ### Internal rate of return [IRR]
 
@@ -50,7 +50,7 @@ No matter your background you have to understand this concept. It applies to alm
 
 > The amount of time needed to recover from an initial investment.
 
-### Profitability ratios
+### Profitability ratio
 
 > The ratio of the present value of a project's positive cash flows to the present value of its negative cash flows.
 
@@ -58,7 +58,7 @@ No matter your background you have to understand this concept. It applies to alm
 
 > The degree to which borrowed money is used to make money.
 
-This is a double edge sword and dangerous if neglected. The more leverage, the more risk the more it can be in your favor or ruin you.
+This is a double edge sword and dangerous if neglected. The more leverage, the more risk, the more it can be in your favor or ruin you.
 
 ### Rule of 72
 
@@ -66,7 +66,7 @@ This is a double edge sword and dangerous if neglected. The more leverage, the m
 
 This is not talked about often but is super useful when making a mental calculation or straight operation from a REPL.
 
-### Effective Annual Rate (EAR)
+### Effective Annual Rate [EAR]
 
 When you reading something from your bank, they are most likely giving you the annual percentage rates (APRs aka advertised interest rates). They are stated on an annual basis and if you are making payments daily, weekly, montly or quarterly that's not the rate you are actually paying for. So do your homework and calculate the Effective annual rate (EAR)
 
@@ -78,7 +78,7 @@ When you reading something from your bank, they are most likely giving you the a
 * Burn Rate (Bleed rate): the rate at which your idea (startup) will burn up funds provided by angels or venture capitalists.
 * Perpetuity: Infinite series of regular and equal payments.
 
-> Also when you hear the term risk in a finance, they are talking about the standard deviation (square root of the variance of the distribution of actual returns of actual returns from their mean).
+> Also when you hear the term risk in a finance setting, they are talking about the standard deviation (square root of the variance of the distribution of actual returns of actual returns from their mean).
 
 ## Libraries
 
