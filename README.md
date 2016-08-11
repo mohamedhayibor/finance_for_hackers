@@ -1,5 +1,14 @@
 # Finance for Hackers :moneybag: :moneybag:
 
+<h1 align="center">
+    <br>
+    <img width="400" src="https://cdn.rawgit.com/mohamedhayibor/finance_for_hackers/master/media/logo.jpeg" alt="finance for hackers">
+    <br>
+    <br>
+</h1>
+
+> Photo credit by [Didier Weemaels](https://unsplash.com/@didwee)
+
 This won't get you a Finance receipt (bachelors), but it will be very close.
 
 It exposes the 10 useful formulas and concepts in finance that you need in your day to day life. If you are a freelance programmer these simple formulas will help you determine whether to take on a project or not, whether to go out and party or stay up all night programming...
