@@ -72,7 +72,7 @@ When you reading something from your bank, they are most likely giving you the a
 
 > the rate of interest actually paid or earned per year and depends on the number of compounding periods. (Takes into account the interest earned on interest)
 
-# Terms that are useful to know 
+## Useful terms to know 
 
 * Growth rate: The annual percentage increase (of value, worth, ...)
 * Burn Rate (Bleed rate): the rate at which your idea (startup) will burn up funds provided by angels or venture capitalists.
